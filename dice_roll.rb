@@ -1,5 +1,5 @@
 
 def roll
  numbers = 1..6
- puts numbers.
+ puts rand(numbers)
 end
